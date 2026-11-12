@@ -1,0 +1,3705 @@
+fileFormatVersion: 2
+guid: 450dca1dd9a31b14caa67acbbd678761
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6851357912356535642
+    second: Lambert Spritesheet_0
+  - first:
+      213: -8295420507694881320
+    second: Lambert Spritesheet_1
+  - first:
+      213: 6055904876442409633
+    second: Lambert Spritesheet_2
+  - first:
+      213: -1265401406220774955
+    second: Lambert Spritesheet_3
+  - first:
+      213: -6298764788356259741
+    second: Lambert Spritesheet_4
+  - first:
+      213: -398192638984420297
+    second: Lambert Spritesheet_5
+  - first:
+      213: -8911264831897531867
+    second: Lambert Spritesheet_6
+  - first:
+      213: -5571889176682270155
+    second: Lambert Spritesheet_7
+  - first:
+      213: 3971432484794262087
+    second: Lambert Spritesheet_8
+  - first:
+      213: -8989753805551229841
+    second: Lambert Spritesheet_9
+  - first:
+      213: 8681785400215101238
+    second: Lambert Spritesheet_10
+  - first:
+      213: 6293167825622630967
+    second: Lambert Spritesheet_11
+  - first:
+      213: -5538190667088874236
+    second: Lambert Spritesheet_12
+  - first:
+      213: -4317328784198664934
+    second: Lambert Spritesheet_13
+  - first:
+      213: -9028836455282568409
+    second: Lambert Spritesheet_14
+  - first:
+      213: -8909762696210790166
+    second: Lambert Spritesheet_15
+  - first:
+      213: 7019723293979567557
+    second: Lambert Spritesheet_16
+  - first:
+      213: -2475835041256167507
+    second: Lambert Spritesheet_17
+  - first:
+      213: 8413172337499391273
+    second: Lambert Spritesheet_18
+  - first:
+      213: 2692491944552250099
+    second: Lambert Spritesheet_19
+  - first:
+      213: -3201650935486470073
+    second: Lambert Spritesheet_20
+  - first:
+      213: 4840991164704196764
+    second: Lambert Spritesheet_21
+  - first:
+      213: 8537610108402123360
+    second: Lambert Spritesheet_22
+  - first:
+      213: 622178574571737130
+    second: Lambert Spritesheet_23
+  - first:
+      213: -5338659059320803573
+    second: Lambert Spritesheet_24
+  - first:
+      213: -2310425186742232805
+    second: Lambert Spritesheet_25
+  - first:
+      213: 625674462131138320
+    second: Lambert Spritesheet_26
+  - first:
+      213: 142274175243793109
+    second: Lambert Spritesheet_27
+  - first:
+      213: 6663676831048956026
+    second: Lambert Spritesheet_28
+  - first:
+      213: -7219567747954795760
+    second: Lambert Spritesheet_29
+  - first:
+      213: -1667534441719911900
+    second: Lambert Spritesheet_30
+  - first:
+      213: 1030385370386717060
+    second: Lambert Spritesheet_31
+  - first:
+      213: 2173827286077289505
+    second: Lambert Spritesheet_32
+  - first:
+      213: -5648946112097897567
+    second: Lambert Spritesheet_33
+  - first:
+      213: 93875312053847398
+    second: Lambert Spritesheet_34
+  - first:
+      213: 6438420546086629171
+    second: Lambert Spritesheet_35
+  - first:
+      213: 8831035138847821544
+    second: Lambert Spritesheet_36
+  - first:
+      213: -7056982653704610243
+    second: Lambert Spritesheet_37
+  - first:
+      213: -5051850189021236467
+    second: Lambert Spritesheet_38
+  - first:
+      213: 2073150719431024292
+    second: Lambert Spritesheet_39
+  - first:
+      213: -8301610464964164617
+    second: Lambert Spritesheet_40
+  - first:
+      213: 723389305948731118
+    second: Lambert Spritesheet_41
+  - first:
+      213: -1989990511848181616
+    second: Lambert Spritesheet_42
+  - first:
+      213: 471740903501573418
+    second: Lambert Spritesheet_43
+  - first:
+      213: 7177800342589788356
+    second: Lambert Spritesheet_44
+  - first:
+      213: -1739229453937891442
+    second: Lambert Spritesheet_45
+  - first:
+      213: 1222628888539668058
+    second: Lambert Spritesheet_46
+  - first:
+      213: 15771241995481680
+    second: Lambert Spritesheet_47
+  - first:
+      213: 16383176565646287
+    second: Lambert Spritesheet_48
+  - first:
+      213: -5128230895444378998
+    second: Lambert Spritesheet_49
+  - first:
+      213: 2853249108160456401
+    second: Lambert Spritesheet_50
+  - first:
+      213: 1777138651462471401
+    second: Lambert Spritesheet_51
+  - first:
+      213: 3292713338868606774
+    second: Lambert Spritesheet_52
+  - first:
+      213: -1766440205829431723
+    second: Lambert Spritesheet_53
+  - first:
+      213: -5545522611174704011
+    second: Lambert Spritesheet_54
+  - first:
+      213: 6560060958790918477
+    second: Lambert Spritesheet_55
+  - first:
+      213: 9193227870649684890
+    second: Lambert Spritesheet_56
+  - first:
+      213: 4926546213224099754
+    second: Lambert Spritesheet_57
+  - first:
+      213: -4282220603284278106
+    second: Lambert Spritesheet_58
+  - first:
+      213: 8319421173904498632
+    second: Lambert Spritesheet_59
+  - first:
+      213: -6500060370678894436
+    second: Lambert Spritesheet_60
+  - first:
+      213: 2694203268490565126
+    second: Lambert Spritesheet_61
+  - first:
+      213: 1419752021472448459
+    second: Lambert Spritesheet_62
+  - first:
+      213: -6629238664475322700
+    second: Lambert Spritesheet_63
+  - first:
+      213: 5042947637615119863
+    second: Lambert Spritesheet_64
+  - first:
+      213: 3137889670754921536
+    second: Lambert Spritesheet_65
+  - first:
+      213: 4429252197370779847
+    second: Lambert Spritesheet_66
+  - first:
+      213: 2392847365779681997
+    second: Lambert Spritesheet_67
+  - first:
+      213: 6754411083927400284
+    second: Lambert Spritesheet_68
+  - first:
+      213: -4026798175219692940
+    second: Lambert Spritesheet_69
+  - first:
+      213: -4983556713836939425
+    second: Lambert Spritesheet_70
+  - first:
+      213: 5879253759742420361
+    second: Lambert Spritesheet_71
+  - first:
+      213: 8970072154699935192
+    second: Lambert Spritesheet_72
+  - first:
+      213: -7884585347847829885
+    second: Lambert Spritesheet_73
+  - first:
+      213: -6516684197460602351
+    second: Lambert Spritesheet_74
+  - first:
+      213: -7260368252384282262
+    second: Lambert Spritesheet_75
+  - first:
+      213: -1067071832730549814
+    second: Lambert Spritesheet_76
+  - first:
+      213: 3666600052242062320
+    second: Lambert Spritesheet_77
+  - first:
+      213: 8214555656658337493
+    second: Lambert Spritesheet_78
+  - first:
+      213: -1234657029145719657
+    second: Lambert Spritesheet_79
+  - first:
+      213: -9022260601716707337
+    second: Lambert Spritesheet_80
+  - first:
+      213: -6023924353140566490
+    second: Lambert Spritesheet_81
+  - first:
+      213: 1170577056264746247
+    second: Lambert Spritesheet_82
+  - first:
+      213: 6105940141695620724
+    second: Lambert Spritesheet_83
+  - first:
+      213: -7257465431052492765
+    second: Lambert Spritesheet_84
+  - first:
+      213: 1880358524382838010
+    second: Lambert Spritesheet_85
+  - first:
+      213: -2009938405264017790
+    second: Lambert Spritesheet_86
+  - first:
+      213: -3344879836860016974
+    second: Lambert Spritesheet_87
+  - first:
+      213: -1517040583341011225
+    second: Lambert Spritesheet_88
+  - first:
+      213: -271364163382661268
+    second: Lambert Spritesheet_89
+  - first:
+      213: 229520455772359392
+    second: Lambert Spritesheet_90
+  - first:
+      213: 8657770297641792791
+    second: Lambert Spritesheet_91
+  - first:
+      213: -6882627616289939263
+    second: Lambert Spritesheet_92
+  - first:
+      213: 2989731889594024090
+    second: Lambert Spritesheet_93
+  - first:
+      213: -5402466793917132688
+    second: Lambert Spritesheet_94
+  - first:
+      213: 730260585534150727
+    second: Lambert Spritesheet_95
+  - first:
+      213: -6619081445229253429
+    second: Lambert Spritesheet_96
+  - first:
+      213: -5073569411387126522
+    second: Lambert Spritesheet_97
+  - first:
+      213: -9203632178818969142
+    second: Lambert Spritesheet_98
+  - first:
+      213: -6930948405357817735
+    second: Lambert Spritesheet_99
+  - first:
+      213: -3456713749224127071
+    second: Lambert Spritesheet_100
+  - first:
+      213: 193140539765490278
+    second: Lambert Spritesheet_101
+  - first:
+      213: -8216957829080638084
+    second: Lambert Spritesheet_102
+  - first:
+      213: -8733111994303873434
+    second: Lambert Spritesheet_103
+  - first:
+      213: -7649157448117908719
+    second: Lambert Spritesheet_104
+  - first:
+      213: 646168864966732452
+    second: Lambert Spritesheet_105
+  - first:
+      213: -3653995523239294102
+    second: Lambert Spritesheet_106
+  - first:
+      213: 6383577052633523889
+    second: Lambert Spritesheet_107
+  - first:
+      213: 2542140191076177958
+    second: Lambert Spritesheet_108
+  - first:
+      213: 100209568579562762
+    second: Lambert Spritesheet_109
+  - first:
+      213: -3701904024376714148
+    second: Lambert Spritesheet_110
+  - first:
+      213: -8791599550631864280
+    second: Lambert Spritesheet_111
+  - first:
+      213: 4260352413858205529
+    second: Lambert Spritesheet_112
+  - first:
+      213: 7075544697460390753
+    second: Lambert Spritesheet_113
+  - first:
+      213: 8246659654827893040
+    second: Lambert Spritesheet_114
+  - first:
+      213: -1941704853487979717
+    second: Lambert Spritesheet_115
+  - first:
+      213: 6883930911733443181
+    second: Lambert Spritesheet_116
+  - first:
+      213: -3576041492873984849
+    second: Lambert Spritesheet_117
+  - first:
+      213: -3685765259367148529
+    second: Lambert Spritesheet_118
+  - first:
+      213: 3245445766491872511
+    second: Lambert Spritesheet_119
+  - first:
+      213: -6071274232429136184
+    second: Lambert Spritesheet_120
+  - first:
+      213: 7249817601345465327
+    second: Lambert Spritesheet_121
+  - first:
+      213: -4523261373196576374
+    second: Lambert Spritesheet_122
+  - first:
+      213: 5703408959632212004
+    second: Lambert Spritesheet_123
+  - first:
+      213: -3052690720831281941
+    second: Lambert Spritesheet_124
+  - first:
+      213: -1522136180084481811
+    second: Lambert Spritesheet_125
+  - first:
+      213: 7019208094951569048
+    second: Lambert Spritesheet_126
+  - first:
+      213: 6035432426656503812
+    second: Lambert Spritesheet_127
+  - first:
+      213: 5965079088247236531
+    second: Lambert Spritesheet_128
+  - first:
+      213: -4834844943064975559
+    second: Lambert Spritesheet_129
+  - first:
+      213: -2204047581983769134
+    second: Lambert Spritesheet_130
+  - first:
+      213: -7613535112333040639
+    second: Lambert Spritesheet_131
+  - first:
+      213: 7330362889576352790
+    second: Lambert Spritesheet_132
+  - first:
+      213: 7624730977041574896
+    second: Lambert Spritesheet_133
+  - first:
+      213: -5159994465793696291
+    second: Lambert Spritesheet_134
+  - first:
+      213: -6818004984483457464
+    second: Lambert Spritesheet_135
+  - first:
+      213: 7613002565515501364
+    second: Lambert Spritesheet_136
+  - first:
+      213: -8901744016362729578
+    second: Lambert Spritesheet_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lambert Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 573
+        width: 119
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db213a8b9e41f50800000000000000
+      internalID: 6851357912356535642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 568
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52b50dffeb0ec80800000000000000
+      internalID: -8295420507694881320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 579
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad7e94665ea0450800000000000000
+      internalID: 6055904876442409633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 579
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15eeb1024607ee0800000000000000
+      internalID: -1265401406220774955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 581
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360694a1cca4698a0800000000000000
+      internalID: -6298764788356259741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 579
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734882197e5597af0800000000000000
+      internalID: -398192638984420297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 577
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a015b69d3d45480800000000000000
+      internalID: -8911264831897531867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 579
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327200a05caca2b0800000000000000
+      internalID: -5571889176682270155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 581
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742eb99adcc5d1730800000000000000
+      internalID: 3971432484794262087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 580
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6427e92b8afd3380800000000000000
+      internalID: -8989753805551229841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 596
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5efbc2d5eb7870800000000000000
+      internalID: 8681785400215101238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 635
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73287267bc2d55750800000000000000
+      internalID: 6293167825622630967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 649
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405b8cd4ee46423b0800000000000000
+      internalID: -5538190667088874236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 623
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df44f4854c514c0800000000000000
+      internalID: -4317328784198664934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 625
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72319cba41123b280800000000000000
+      internalID: -9028836455282568409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 629
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84453a80a2a5480800000000000000
+      internalID: -8909762696210790166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 630
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ef2fc4211b6160800000000000000
+      internalID: 7019723293979567557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 623
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da72673c52114add0800000000000000
+      internalID: -2475835041256167507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 554
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254bc28aa791c470800000000000000
+      internalID: 8413172337499391273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 551
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa33ab7827ad5520800000000000000
+      internalID: 2692491944552250099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 571
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748288fef637193d0800000000000000
+      internalID: -3201650935486470073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 571
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988ffcc0d7ae2340800000000000000
+      internalID: 4840991164704196764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 571
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062c71ec82fab7670800000000000000
+      internalID: 8537610108402123360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 574
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20153cfd1c62a800800000000000000
+      internalID: 622178574571737130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 488
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f2348fed549e5b0800000000000000
+      internalID: -5338659059320803573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 488
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191d18a888bfefd0800000000000000
+      internalID: -2310425186742232805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 493
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2c5cbb97dea800800000000000000
+      internalID: 625674462131138320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 492
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d23e1ccb9579f100800000000000000
+      internalID: 142274175243793109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 490
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787caca5c22a7c50800000000000000
+      internalID: 6663676831048956026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 489
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b99475261fecb90800000000000000
+      internalID: -7219567747954795760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 483
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a2e8e924abbd8e0800000000000000
+      internalID: -1667534441719911900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 483
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489d8aff80aac4e00800000000000000
+      internalID: 1030385370386717060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 485
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12430b5366cfa2e10800000000000000
+      internalID: 2173827286077289505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 485
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b411c079ea91b0800000000000000
+      internalID: -5648946112097897567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 476
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665062459138d4100800000000000000
+      internalID: 93875312053847398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 476
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe11cdf5dd95950800000000000000
+      internalID: 6438420546086629171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 515
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee44028ba32e8a70800000000000000
+      internalID: 8831035138847821544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 522
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed7db7aaf801e90800000000000000
+      internalID: -7056982653704610243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 522
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0336e8d40934e9b0800000000000000
+      internalID: -5051850189021236467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 522
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae1885689f45cc10800000000000000
+      internalID: 2073150719431024292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 526
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f345241441cacc80800000000000000
+      internalID: -8301610464964164617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 479
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f367bdbef90a00800000000000000
+      internalID: 723389305948731118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 481
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09034e24c222264e0800000000000000
+      internalID: -1989990511848181616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 481
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dab333ad5fb8600800000000000000
+      internalID: 471740903501573418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 477
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ddb8c16bac9360800000000000000
+      internalID: 7177800342589788356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 475
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a227c6040dd7e0800000000000000
+      internalID: -1739229453937891442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 373
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e99811f76a7f010800000000000000
+      internalID: 1222628888539668058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 373
+        width: 125
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052becc6cd7083000800000000000000
+      internalID: 15771241995481680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 402
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ec7b89643a3000800000000000000
+      internalID: 16383176565646287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 401
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8abadecb2dd4d8b0800000000000000
+      internalID: -5128230895444378998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 399
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6aa9b52f6c89720800000000000000
+      internalID: 2853249108160456401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 398
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee8905103aa9a810800000000000000
+      internalID: 1777138651462471401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 392
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637247e065112bd20800000000000000
+      internalID: 3292713338868606774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 390
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9196edf75c77e0800000000000000
+      internalID: -1766440205829431723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 430
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cf80b01985a03b0800000000000000
+      internalID: -5545522611174704011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 429
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4124a17fa40a0b50800000000000000
+      internalID: 6560060958790918477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 426
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a939b416a08e49f70800000000000000
+      internalID: 9193227870649684890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 426
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa4c0ddab9e5440800000000000000
+      internalID: 4926546213224099754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 434
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b16bac0f7294c0800000000000000
+      internalID: -4282220603284278106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 439
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfd07fba75847370800000000000000
+      internalID: 8319421173904498632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 437
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90371b18852bc5a0800000000000000
+      internalID: -6500060370678894436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 437
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6069313299bb36520800000000000000
+      internalID: 2694203268490565126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 433
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf020df0f8f3b310800000000000000
+      internalID: 1419752021472448459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 430
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6d9a0de863004a0800000000000000
+      internalID: -6629238664475322700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 328
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc1f068262cf540800000000000000
+      internalID: 5042947637615119863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 387
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce6b1c7060c8b20800000000000000
+      internalID: 3137889670754921536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 395
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c857e4086dd77d30800000000000000
+      internalID: 4429252197370779847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 387
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2f607500a153120800000000000000
+      internalID: 2392847365779681997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 385
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f247c281d7cbd50800000000000000
+      internalID: 6754411083927400284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 333
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac6dff460fd18c0800000000000000
+      internalID: -4026798175219692940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 324
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577cb1a299d6dab0800000000000000
+      internalID: -4983556713836939425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 326
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a3d5152e479150800000000000000
+      internalID: 5879253759742420361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 335
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd238669191c7c70800000000000000
+      internalID: 8970072154699935192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 334
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386c7448663549290800000000000000
+      internalID: -7884585347847829885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 333
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11295f0df361095a0800000000000000
+      internalID: -6516684197460602351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 325
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697c12aa8dfd3b90800000000000000
+      internalID: -7260368252384282262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 352
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1454c52dff031f0800000000000000
+      internalID: -1067071832730549814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 346
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb115f225162e230800000000000000
+      internalID: 3666600052242062320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 348
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5debbced8d6fff170800000000000000
+      internalID: 8214555656658337493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 346
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c845639fd9ddee0800000000000000
+      internalID: -1234657029145719657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 339
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff6ca3e8cd7ac280800000000000000
+      internalID: -9022260601716707337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 284
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6265b3987b8b66ca0800000000000000
+      internalID: -6023924353140566490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 282
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705f1e471a9be3010800000000000000
+      internalID: 1170577056264746247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 334
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476d09d4538acb450800000000000000
+      internalID: 6105940141695620724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 332
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320607464ad484b90800000000000000
+      internalID: -7257465431052492765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 301
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc77388d10681a10800000000000000
+      internalID: 1880358524382838010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 301
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286b2d56ba34b14e0800000000000000
+      internalID: -2009938405264017790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 293
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69793a2899491d0800000000000000
+      internalID: -3344879836860016974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 306
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8b1880a362fae0800000000000000
+      internalID: -1517040583341011225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 306
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2ecc2bbbeb3cf0800000000000000
+      internalID: -271364163382661268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 307
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea4ff273ab6f2300800000000000000
+      internalID: 229520455772359392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 307
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715fdd10734962870800000000000000
+      internalID: 8657770297641792791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 309
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0aeb116aefb70a0800000000000000
+      internalID: -6882627616289939263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 310
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90c8e43059ad7920800000000000000
+      internalID: 2989731889594024090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 309
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070d9bd03159605b0800000000000000
+      internalID: -5402466793917132688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 310
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7485b3a2228622a00800000000000000
+      internalID: 730260585534150727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 310
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2bb5be7c4424a0800000000000000
+      internalID: -6619081445229253429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 274
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d8bf2508f0799b0800000000000000
+      internalID: -5073569411387126522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 292
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1142adb41264080800000000000000
+      internalID: -9203632178818969142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 276
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9705616a52350df90800000000000000
+      internalID: -6930948405357817735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 274
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a58947d8294700d0800000000000000
+      internalID: -3456713749224127071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 277
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66203703c4c2ea200800000000000000
+      internalID: 193140539765490278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 252
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d9847c36087fd80800000000000000
+      internalID: -8216957829080638084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 246
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e70d349e0cdc680800000000000000
+      internalID: -8733111994303873434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 265
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b06e1f3dbb8d590800000000000000
+      internalID: -7649157448117908719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 251
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa624db827a7f800800000000000000
+      internalID: 646168864966732452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 36
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b447a6e666a4dc0800000000000000
+      internalID: -3653995523239294102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 65
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66e8af185079850800000000000000
+      internalID: 6383577052633523889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 65
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d652f80f774320800000000000000
+      internalID: 2542140191076177958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 58
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0da74a5214046100800000000000000
+      internalID: 100209568579562762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 66
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cdf6247e130acc0800000000000000
+      internalID: -3701904024376714148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8289a11e9c6fdf580800000000000000
+      internalID: -8791599550631864280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 65
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0ff5b2ffcf1b30800000000000000
+      internalID: 4260352413858205529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 66
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b768c1a62613260800000000000000
+      internalID: 7075544697460390753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ef8d6345027270800000000000000
+      internalID: 8246659654827893040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 58
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33723d29bdad05e0800000000000000
+      internalID: -1941704853487979717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 65
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae33c01b2a88f50800000000000000
+      internalID: 6883930911733443181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 58
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4403b75395f5ec0800000000000000
+      internalID: -3576041492873984849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 66
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0412fd460889dcc0800000000000000
+      internalID: -3685765259367148529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 65
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc1b81cab32a0d20800000000000000
+      internalID: 3245445766491872511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 65
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6341aa0408ebba0800000000000000
+      internalID: -6071274232429136184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 66
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb229e72b68c9460800000000000000
+      internalID: 7249817601345465327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 58
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a895f501fb52a31c0800000000000000
+      internalID: -4523261373196576374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 65
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42088a71b34962f40800000000000000
+      internalID: 5703408959632212004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 65
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be468b796f9a2a5d0800000000000000
+      internalID: -3052690720831281941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 23
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de06b46753940eae0800000000000000
+      internalID: -1522136180084481811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 23
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8967220b29c396160800000000000000
+      internalID: 7019208094951569048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 23
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081cb0a0d922c350800000000000000
+      internalID: 6035432426656503812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 23
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7661093d738c250800000000000000
+      internalID: 5965079088247236531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 23
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937b480f32e27ecb0800000000000000
+      internalID: -4834844943064975559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 15
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd7cc7d666a961e0800000000000000
+      internalID: -2204047581983769134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104ec60572a475690800000000000000
+      internalID: -7613535112333040639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 23
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c87ebc53eaab560800000000000000
+      internalID: 7330362889576352790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbea721d6c70d960800000000000000
+      internalID: 7624730977041574896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 23
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd92674f540468b0800000000000000
+      internalID: -5159994465793696291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 23
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846550707949161a0800000000000000
+      internalID: -6818004984483457464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 23
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f50b77f71d6a960800000000000000
+      internalID: 7613002565515501364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lambert Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 23
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f8d370bf6a67480800000000000000
+      internalID: -8901744016362729578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lambert Spritesheet_0: 6851357912356535642
+      Lambert Spritesheet_1: -8295420507694881320
+      Lambert Spritesheet_10: 8681785400215101238
+      Lambert Spritesheet_100: -3456713749224127071
+      Lambert Spritesheet_101: 193140539765490278
+      Lambert Spritesheet_102: -8216957829080638084
+      Lambert Spritesheet_103: -8733111994303873434
+      Lambert Spritesheet_104: -7649157448117908719
+      Lambert Spritesheet_105: 646168864966732452
+      Lambert Spritesheet_106: -3653995523239294102
+      Lambert Spritesheet_107: 6383577052633523889
+      Lambert Spritesheet_108: 2542140191076177958
+      Lambert Spritesheet_109: 100209568579562762
+      Lambert Spritesheet_11: 6293167825622630967
+      Lambert Spritesheet_110: -3701904024376714148
+      Lambert Spritesheet_111: -8791599550631864280
+      Lambert Spritesheet_112: 4260352413858205529
+      Lambert Spritesheet_113: 7075544697460390753
+      Lambert Spritesheet_114: 8246659654827893040
+      Lambert Spritesheet_115: -1941704853487979717
+      Lambert Spritesheet_116: 6883930911733443181
+      Lambert Spritesheet_117: -3576041492873984849
+      Lambert Spritesheet_118: -3685765259367148529
+      Lambert Spritesheet_119: 3245445766491872511
+      Lambert Spritesheet_12: -5538190667088874236
+      Lambert Spritesheet_120: -6071274232429136184
+      Lambert Spritesheet_121: 7249817601345465327
+      Lambert Spritesheet_122: -4523261373196576374
+      Lambert Spritesheet_123: 5703408959632212004
+      Lambert Spritesheet_124: -3052690720831281941
+      Lambert Spritesheet_125: -1522136180084481811
+      Lambert Spritesheet_126: 7019208094951569048
+      Lambert Spritesheet_127: 6035432426656503812
+      Lambert Spritesheet_128: 5965079088247236531
+      Lambert Spritesheet_129: -4834844943064975559
+      Lambert Spritesheet_13: -4317328784198664934
+      Lambert Spritesheet_130: -2204047581983769134
+      Lambert Spritesheet_131: -7613535112333040639
+      Lambert Spritesheet_132: 7330362889576352790
+      Lambert Spritesheet_133: 7624730977041574896
+      Lambert Spritesheet_134: -5159994465793696291
+      Lambert Spritesheet_135: -6818004984483457464
+      Lambert Spritesheet_136: 7613002565515501364
+      Lambert Spritesheet_137: -8901744016362729578
+      Lambert Spritesheet_14: -9028836455282568409
+      Lambert Spritesheet_15: -8909762696210790166
+      Lambert Spritesheet_16: 7019723293979567557
+      Lambert Spritesheet_17: -2475835041256167507
+      Lambert Spritesheet_18: 8413172337499391273
+      Lambert Spritesheet_19: 2692491944552250099
+      Lambert Spritesheet_2: 6055904876442409633
+      Lambert Spritesheet_20: -3201650935486470073
+      Lambert Spritesheet_21: 4840991164704196764
+      Lambert Spritesheet_22: 8537610108402123360
+      Lambert Spritesheet_23: 622178574571737130
+      Lambert Spritesheet_24: -5338659059320803573
+      Lambert Spritesheet_25: -2310425186742232805
+      Lambert Spritesheet_26: 625674462131138320
+      Lambert Spritesheet_27: 142274175243793109
+      Lambert Spritesheet_28: 6663676831048956026
+      Lambert Spritesheet_29: -7219567747954795760
+      Lambert Spritesheet_3: -1265401406220774955
+      Lambert Spritesheet_30: -1667534441719911900
+      Lambert Spritesheet_31: 1030385370386717060
+      Lambert Spritesheet_32: 2173827286077289505
+      Lambert Spritesheet_33: -5648946112097897567
+      Lambert Spritesheet_34: 93875312053847398
+      Lambert Spritesheet_35: 6438420546086629171
+      Lambert Spritesheet_36: 8831035138847821544
+      Lambert Spritesheet_37: -7056982653704610243
+      Lambert Spritesheet_38: -5051850189021236467
+      Lambert Spritesheet_39: 2073150719431024292
+      Lambert Spritesheet_4: -6298764788356259741
+      Lambert Spritesheet_40: -8301610464964164617
+      Lambert Spritesheet_41: 723389305948731118
+      Lambert Spritesheet_42: -1989990511848181616
+      Lambert Spritesheet_43: 471740903501573418
+      Lambert Spritesheet_44: 7177800342589788356
+      Lambert Spritesheet_45: -1739229453937891442
+      Lambert Spritesheet_46: 1222628888539668058
+      Lambert Spritesheet_47: 15771241995481680
+      Lambert Spritesheet_48: 16383176565646287
+      Lambert Spritesheet_49: -5128230895444378998
+      Lambert Spritesheet_5: -398192638984420297
+      Lambert Spritesheet_50: 2853249108160456401
+      Lambert Spritesheet_51: 1777138651462471401
+      Lambert Spritesheet_52: 3292713338868606774
+      Lambert Spritesheet_53: -1766440205829431723
+      Lambert Spritesheet_54: -5545522611174704011
+      Lambert Spritesheet_55: 6560060958790918477
+      Lambert Spritesheet_56: 9193227870649684890
+      Lambert Spritesheet_57: 4926546213224099754
+      Lambert Spritesheet_58: -4282220603284278106
+      Lambert Spritesheet_59: 8319421173904498632
+      Lambert Spritesheet_6: -8911264831897531867
+      Lambert Spritesheet_60: -6500060370678894436
+      Lambert Spritesheet_61: 2694203268490565126
+      Lambert Spritesheet_62: 1419752021472448459
+      Lambert Spritesheet_63: -6629238664475322700
+      Lambert Spritesheet_64: 5042947637615119863
+      Lambert Spritesheet_65: 3137889670754921536
+      Lambert Spritesheet_66: 4429252197370779847
+      Lambert Spritesheet_67: 2392847365779681997
+      Lambert Spritesheet_68: 6754411083927400284
+      Lambert Spritesheet_69: -4026798175219692940
+      Lambert Spritesheet_7: -5571889176682270155
+      Lambert Spritesheet_70: -4983556713836939425
+      Lambert Spritesheet_71: 5879253759742420361
+      Lambert Spritesheet_72: 8970072154699935192
+      Lambert Spritesheet_73: -7884585347847829885
+      Lambert Spritesheet_74: -6516684197460602351
+      Lambert Spritesheet_75: -7260368252384282262
+      Lambert Spritesheet_76: -1067071832730549814
+      Lambert Spritesheet_77: 3666600052242062320
+      Lambert Spritesheet_78: 8214555656658337493
+      Lambert Spritesheet_79: -1234657029145719657
+      Lambert Spritesheet_8: 3971432484794262087
+      Lambert Spritesheet_80: -9022260601716707337
+      Lambert Spritesheet_81: -6023924353140566490
+      Lambert Spritesheet_82: 1170577056264746247
+      Lambert Spritesheet_83: 6105940141695620724
+      Lambert Spritesheet_84: -7257465431052492765
+      Lambert Spritesheet_85: 1880358524382838010
+      Lambert Spritesheet_86: -2009938405264017790
+      Lambert Spritesheet_87: -3344879836860016974
+      Lambert Spritesheet_88: -1517040583341011225
+      Lambert Spritesheet_89: -271364163382661268
+      Lambert Spritesheet_9: -8989753805551229841
+      Lambert Spritesheet_90: 229520455772359392
+      Lambert Spritesheet_91: 8657770297641792791
+      Lambert Spritesheet_92: -6882627616289939263
+      Lambert Spritesheet_93: 2989731889594024090
+      Lambert Spritesheet_94: -5402466793917132688
+      Lambert Spritesheet_95: 730260585534150727
+      Lambert Spritesheet_96: -6619081445229253429
+      Lambert Spritesheet_97: -5073569411387126522
+      Lambert Spritesheet_98: -9203632178818969142
+      Lambert Spritesheet_99: -6930948405357817735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

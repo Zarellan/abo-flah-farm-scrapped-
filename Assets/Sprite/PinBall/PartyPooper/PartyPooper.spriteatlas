@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PartyPooper
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 1044fd0bc39345749b03c0615701aee4, type: 3}
+    - {fileID: 21300000, guid: 735a8a82a37a0e041bb8efe89b575d2d, type: 3}
+    - {fileID: 21300000, guid: 46a39cc753d30c44e900cbffbfec3dbb, type: 3}
+    - {fileID: 21300000, guid: 0372dfec6ee84984ea1bbfb7e525fff8, type: 3}
+    - {fileID: 21300000, guid: 053ba48e1fa66644cb20e675a4298029, type: 3}
+    - {fileID: -131687408777712878, guid: 6daf3ac8434819a4785fb42f6bcd6460, type: 3}
+    - {fileID: 21300000, guid: 54323071d843ec04d8ae016e12c6c23d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 54323071d843ec04d8ae016e12c6c23d: 21300000
+    - 735a8a82a37a0e041bb8efe89b575d2d: 21300000
+    - 46a39cc753d30c44e900cbffbfec3dbb: 21300000
+    - 6daf3ac8434819a4785fb42f6bcd6460: -131687408777712878
+    - 1044fd0bc39345749b03c0615701aee4: 21300000
+    - 0372dfec6ee84984ea1bbfb7e525fff8: 21300000
+    - 053ba48e1fa66644cb20e675a4298029: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 54323071d843ec04d8ae016e12c6c23d, type: 3}
+  - {fileID: 21300000, guid: 735a8a82a37a0e041bb8efe89b575d2d, type: 3}
+  - {fileID: 21300000, guid: 46a39cc753d30c44e900cbffbfec3dbb, type: 3}
+  - {fileID: -131687408777712878, guid: 6daf3ac8434819a4785fb42f6bcd6460, type: 3}
+  - {fileID: 21300000, guid: 1044fd0bc39345749b03c0615701aee4, type: 3}
+  - {fileID: 21300000, guid: 0372dfec6ee84984ea1bbfb7e525fff8, type: 3}
+  - {fileID: 21300000, guid: 053ba48e1fa66644cb20e675a4298029, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - party pooper yellow
+  - party pooper cyan
+  - party pooper orange
+  - party pooper slice_0
+  - party pooper blue
+  - party pooper purple
+  - party pooper red
+  m_RenderDataMap: {}
+  m_Tag: PartyPooper
+  m_IsVariant: 0
